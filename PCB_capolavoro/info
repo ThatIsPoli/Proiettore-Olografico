@@ -1,0 +1,185 @@
+{
+  "uuid": "20ae0f8e0cbf5ce57abeedde7c175701",
+  "path": "Offline/PCB_capolavoro",
+  "name": "PCB_capolavoro",
+  "content": "",
+  "created_at": "2024-05-17 16:59:12",
+  "updated_at": "2024-06-03 22:00:46",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "129b219737ce16d9552d0b2e0aeb9387",
+      "title": "Schema_circuitale_capolavoro",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a9ee864c65754b2a9dcfafabce718be2": 2,
+        "6b9a6ef2d19f49de87051fafab0f90c9": 4,
+        "4160acdcbf3c44b7857840e3de817f0d": 2,
+        "4459687f8b2e4dd389ae07669606073d": 1,
+        "e945629ce0b8456188bd2faf4cc4297b": 1,
+        "2bbc1f1948fa464382008280b571e399": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "A2541WR-3P",
+          1,
+          "HDR-TH_3P-P2.54-H-M-W10.0",
+          "DATA",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225489",
+            "Manufacturer": "CJT(长江连接器)",
+            "Manufacturer Part": "A2541WR-3P",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "A2541WR-3P",
+            "puuid": "b40d6e4cbc1440108c4aae2ba3760d0b",
+            "uuid": "2bbc1f1948fa464382008280b571e399"
+          }
+        ],
+        [
+          "5-535541-1",
+          1,
+          "HDR-TH_3P-P2.54-V-F",
+          "IR",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C6688901",
+            "Manufacturer": "TE Connectivity(泰科电子)",
+            "Manufacturer Part": "5-535541-1",
+            "Contributor": "lcsc",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "5-535541-1",
+            "puuid": "cdd2a2f88f9047a3974e8fb98887b1dd",
+            "uuid": "e945629ce0b8456188bd2faf4cc4297b"
+          }
+        ],
+        [
+          "BH1004DC",
+          2,
+          "LED2-2.54-D10MM",
+          "LED1,LED2",
+          {
+            "description": "DIP LED Blue-Blue-10mm;",
+            "Manufacturer Part": "BH1004DC",
+            "spiceSymbolName": "BH1004DC",
+            "puuid": "0c1aa09e751b4eefb2fa6962290649da",
+            "uuid": "a9ee864c65754b2a9dcfafabce718be2"
+          }
+        ],
+        [
+          "A2541WV-2P_C5333430",
+          1,
+          "HDR-TH_P2.54-H-M_A2541WV-2P",
+          "PS",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5333430",
+            "Manufacturer": "CJT(长江连接器)",
+            "Manufacturer Part": "A2541WV-2P",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "A2541WV-2P_C5333430",
+            "puuid": "b650dac514184b809241310cc3e65153",
+            "uuid": "4459687f8b2e4dd389ae07669606073d"
+          }
+        ],
+        [
+          "2N2222A",
+          2,
+          "TO-92-3_L4.8-W3.7-P2.54-R",
+          "Q3,Q4",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C358533",
+            "Manufacturer": "BLUE ROCKET(蓝箭)",
+            "Manufacturer Part": "2N2222A",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "2N2222A",
+            "puuid": "d759540c89844d9986051022192fcef6",
+            "uuid": "4160acdcbf3c44b7857840e3de817f0d"
+          }
+        ],
+        [
+          "16Kohm",
+          2,
+          "RES-TH_BD3.8-L10.3-P14.30-D0.7",
+          "U4,U7",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3534093",
+            "Manufacturer": "Ohmite",
+            "Manufacturer Part": "OF434JE",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "OF434JE",
+            "puuid": "c265f42c100e48859c8806d3b367397e",
+            "uuid": "6b9a6ef2d19f49de87051fafab0f90c9"
+          }
+        ],
+        [
+          "560ohm",
+          2,
+          "RES-TH_BD3.8-L10.3-P14.30-D0.7",
+          "U5,U6",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3534093",
+            "Manufacturer": "Ohmite",
+            "Manufacturer Part": "OF434JE",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "OF434JE",
+            "puuid": "c265f42c100e48859c8806d3b367397e",
+            "uuid": "6b9a6ef2d19f49de87051fafab0f90c9"
+          }
+        ]
+      ],
+      "updateTime": 1716378286,
+      "createTime": 1715957952,
+      "histories": [],
+      "created_at": "2024-05-17 16:59:12",
+      "updated_at": "2024-05-22 13:44:46"
+    },
+    {
+      "uuid": "93ce037aa5fcf18cd561ed8933113635",
+      "puuid": "20ae0f8e0cbf5ce57abeedde7c175701",
+      "title": "PCB_capolavoro",
+      "filename": "PCB_capolavoro.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b650dac514184b809241310cc3e65153": 1,
+        "b40d6e4cbc1440108c4aae2ba3760d0b": 1,
+        "cdd2a2f88f9047a3974e8fb98887b1dd": 1,
+        "0c1aa09e751b4eefb2fa6962290649da": 2,
+        "d759540c89844d9986051022192fcef6": 2,
+        "c265f42c100e48859c8806d3b367397e": 4
+      },
+      "BOM": [],
+      "updateTime": 1716378283,
+      "createTime": 1716374545,
+      "histories": [],
+      "created_at": "2024-05-22 12:42:25",
+      "updated_at": "2024-05-22 13:44:43"
+    }
+  ],
+  "sort": [],
+  "title": "PCB_capolavoro",
+  "foldername": "PCB_capolavoro",
+  "schfilename": "PCB_capolavoro.json",
+  "schfilemtime": 1717444805164
+}
